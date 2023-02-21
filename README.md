@@ -1,10 +1,10 @@
 # iron_traits
-IronTraits is a collection of of open-source traits for interoperability with our private code.
+iron_traits is a collection of of open-source traits for interoperability with our private code.
 
 ## Usage
-To use Ironprism's Rust Traits in your Rust project, simply add the following line to your `Cargo.toml` file:
+To use `iron_traits` in your Rust project, simply add the following line to your `Cargo.toml` file:
 ```toml
-ironprism-traits = "0.1.0"
+iron-traits = "0.1.0"
 ```
 
 ## Contributing
